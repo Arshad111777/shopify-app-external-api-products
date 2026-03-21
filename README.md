@@ -75,8 +75,8 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Arshad111777/shopify-app-external-api-products.git
+cd shopify-app-external-api-products
 npm install
 ```
 
